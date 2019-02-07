@@ -48,7 +48,10 @@ Military Child, Born in Britain, moved frequently.\
 }
 
 void Branden(void){
-
+   printf("Branden Ramsdell\n");
+   printf("Math/Computer Science\n");
+   printf("Junior\n");
+   printf("Hobby: Fuel Rat in Elite:Dangerous. Basically AAA for the galaxy.\n");
 }
 
 
