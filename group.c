@@ -25,12 +25,12 @@ void Kody(void){
 
 void Jimmy(void){
 
-  printf("******************************************\n");
+  printf("***********************************************\n");
   printf("              Jimmy Painter\n");
   printf("          Major: Computer Science\n");
   printf(" Hobbies: Hiking, Driving, Gaming, Coding\n");
-
-
+  printf("         Hailing from Toledo Washington\n");
+  printf("***********************************************\n");
 
 }
 
@@ -76,7 +76,8 @@ int main(void){
   Kody();
   printf("\n");
   Jimmy();
-
+  printf("\n");
+  Branden();
 
 
 
